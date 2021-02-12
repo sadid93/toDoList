@@ -56,14 +56,12 @@ body
 .addTask button 
 {
     margin: 0 10px;
-    background: #00ff62;
     color: #fff;
     text-transform: uppercase;
-    padding: 10px;
     border: none;
     outline: none;
     border-radius: 5px;
-    cursor: pointer;
+    
 }
 
 .addTask button:hover 
